@@ -62,7 +62,6 @@ Contributions are welcome! If you have any suggestions, bug fixes, or improvemen
 
 # Screenshots
 
-![Screenshot]([Screenshot_2024-03-04_103845.png](https://github.com/arjun1127/Portfolio-1st/blob/main/Screenshot%202024-03-04%20104029.png)https://github.com/arjun1127/Portfolio-1st/blob/main/Screenshot%202024-03-04%20104029.png)
 
 
 
