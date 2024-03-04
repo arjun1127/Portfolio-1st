@@ -1,25 +1,32 @@
-Portfolio Website with React.js and React-Three.js
-This project is a portfolio website built using React.js and integrating 3D elements with React-Three.js. It serves as a showcase of my work and skills.
+# Portfolio Website with React.js and React-Three.js
 
-Table of Contents
-Introduction
-Features
-Installation
-Usage
-Customization
-Contributing
-License
-Introduction
+# This project is a portfolio website built using React.js and integrating 3D elements with React-Three.js. It serves as a showcase of my work and skills.
+
+# Table of Contents
+
+# Introduction
+# Features
+# Installation
+# Usage
+# Customization
+# Contributing
+# License
+
+
+# Introduction
 This portfolio website aims to provide a visually appealing and interactive platform to display my projects and expertise. By leveraging the power of React.js for dynamic content rendering and React-Three.js for 3D elements, the website offers an immersive experience to visitors.
 
-Features
+# Features
 Responsive design for seamless viewing across devices.
 Integration of 3D elements created with React-Three.js.
 Smooth navigation and user-friendly interface.
 Showcase of projects with detailed descriptions.
 Contact form for inquiries and collaborations.
-Installation
+
+
+# Installation
 Clone the repository to your local machine:
+
 bash
 Copy code
 git clone https://github.com/yourusername/your-portfolio.git
