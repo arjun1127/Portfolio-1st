@@ -30,6 +30,7 @@ Contact form for inquiries and collaborations.
 
    ```bash
    git clone https://github.com/yourusername/your-portfolio.git
+   ```
 Navigate to the project directory:
 
 ```bash
