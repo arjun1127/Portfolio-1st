@@ -33,22 +33,25 @@ Contact form for inquiries and collaborations.
 Navigate to the project directory:
 
 ```bash
-cd your-portfolio
+   cd your-portfolio
 ```
 Install dependencies:
 
 ```bash
-npm install
+   npm install
 ```
 
 This Markdown format provides clear step-by-step instructions for users to clone the repository, navigate to the project directory, and install dependencies using terminal commands.
-
-git clone https://github.com/yourusername/your-portfolio.git
-Customization
+```
+   git clone https://github.com/yourusername/your-portfolio.git
+```
+# Customization
 Feel free to customize the website according to your preferences and needs. Here are some areas you might want to modify:
 
-Update src/components/Projects.js to showcase your own projects.
-Customize the 3D elements in src/components/ThreeScene.js using React-Three.js.
+Update ``` src/components/Projects.js  ``` to showcase your own projects.
+
+Customize the 3D elements in ```src/components/ThreeScene.js ``` using React-Three.js.
+
 Modify the styles in src/styles directory to match your desired design aesthetic.
 Add additional pages or sections as necessary to highlight your skills, experience, etc.
 Contributing
