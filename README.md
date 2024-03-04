@@ -62,6 +62,6 @@ Contributions are welcome! If you have any suggestions, bug fixes, or improvemen
 
 # ScreenShorts
 
-![Example Image](Screenshot 2024-03-04 103845.png)
+![Screenshot 2024-03-04 103845](Screenshot 2024-03-04 103845.png)
 
 
