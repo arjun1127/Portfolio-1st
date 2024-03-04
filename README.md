@@ -60,5 +60,8 @@ Add additional pages or sections as necessary to highlight your skills, experien
 # Contributing
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please open an issue or submit a pull request.
 
+# ScreenShorts
+
+![Example Image](example.png)
 
 
