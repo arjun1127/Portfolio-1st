@@ -32,16 +32,14 @@ Contact form for inquiries and collaborations.
    git clone https://github.com/yourusername/your-portfolio.git
 Navigate to the project directory:
 
-bash
-Copy code
+```bash
 cd your-portfolio
+```
 Install dependencies:
 
-bash
-Copy code
+```bash
 npm install
-vbnet
-Copy code
+```
 
 This Markdown format provides clear step-by-step instructions for users to clone the repository, navigate to the project directory, and install dependencies using terminal commands.
 
