@@ -50,13 +50,14 @@ Feel free to customize the website according to your preferences and needs. Here
 
 Update ``` src/components/Projects.js  ``` to showcase your own projects.
 
-Customize the 3D elements in ```src/components/ThreeScene.js ``` using React-Three.js.
+Customize the 3D elements in ```src/components/ ``` using React-Three.js.
 
-Modify the styles in src/styles directory to match your desired design aesthetic.
+Modify the styles in ``` src/styles ``` directory to match your desired design aesthetic.
+
 Add additional pages or sections as necessary to highlight your skills, experience, etc.
-Contributing
+
+# Contributing
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License.
+
 
