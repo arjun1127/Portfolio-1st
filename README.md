@@ -1,10 +1,10 @@
 # Portfolio Website with React.js and React-Three.js
 
-# This project is a portfolio website built using React.js and integrating 3D elements with React-Three.js. It serves as a showcase of my work and skills.
+This project is a portfolio website built using React.js and integrating 3D elements with React-Three.js. It serves as a showcase of my work and skills.
 
-# Table of Contents
+ Table of Contents
 
-# Introduction
+. Introduction
 # Features
 # Installation
 # Usage
