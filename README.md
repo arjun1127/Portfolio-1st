@@ -11,7 +11,7 @@ This project is a portfolio website built using React.js and integrating 3D elem
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [License](#license)
-
+- [ScreenShorts](#screenShorts)
 
 # Introduction
 This portfolio website aims to provide a visually appealing and interactive platform to display my projects and expertise. By leveraging the power of React.js for dynamic content rendering and React-Three.js for 3D elements, the website offers an immersive experience to visitors.
@@ -60,7 +60,5 @@ Add additional pages or sections as necessary to highlight your skills, experien
 # Contributing
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, please open an issue or submit a pull request.
 
-#ScreenShots 
-Screenshot 2024-03-04 103845.png
 
 
