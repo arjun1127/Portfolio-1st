@@ -2,15 +2,15 @@
 
 This project is a portfolio website built using React.js and integrating 3D elements with React-Three.js. It serves as a showcase of my work and skills.
 
- Table of Contents
+# Table of Contents
 
-. Introduction
-# Features
-# Installation
-# Usage
-# Customization
-# Contributing
-# License
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 # Introduction
@@ -25,24 +25,27 @@ Contact form for inquiries and collaborations.
 
 
 # Installation
-Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/yourusername/your-portfolio.git
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/your-portfolio.git
 Navigate to the project directory:
+
 bash
 Copy code
 cd your-portfolio
 Install dependencies:
+
+bash
 Copy code
 npm install
-Usage
-Start the development server:
-sql
+vbnet
 Copy code
-npm start
-Open your browser and go to http://localhost:3000 to view the website.
+
+This Markdown format provides clear step-by-step instructions for users to clone the repository, navigate to the project directory, and install dependencies using terminal commands.
+
+git clone https://github.com/yourusername/your-portfolio.git
 Customization
 Feel free to customize the website according to your preferences and needs. Here are some areas you might want to modify:
 
